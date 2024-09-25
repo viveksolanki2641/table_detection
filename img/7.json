@@ -1,0 +1,26 @@
+{
+    "tables": [
+        {
+            "page": 1,
+            "coordinates": {
+                "x1": 297,
+                "y1": 1043,
+                "x2": 297,
+                "y2": 1246
+            },
+            "rows": "rows",
+            "columns": "columns"
+        },
+        {
+            "page": 1,
+            "coordinates": {
+                "x1": 290,
+                "y1": 1284,
+                "x2": 290,
+                "y2": 2595
+            },
+            "rows": "rows",
+            "columns": "columns"
+        }
+    ]
+}
