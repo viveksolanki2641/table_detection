@@ -1,0 +1,6 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+Pillow==10.4.0
+unstructured==0.15.13
+pdfminer
+pdf2image ==1.17.0
